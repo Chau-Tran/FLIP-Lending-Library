@@ -1,0 +1,11 @@
+unique_id,name,book,date_borrowed,penalty_owed
+Lender_1,Ross,Harry Potter,2021-05-06,0
+Lender_2,Chandler,,,0
+Lender_3,Joey,Cat in the Hat,2021-05-06,0
+Lender_4,Rachel,,,0
+Lender_5,Monica,,,0
+Lender_6,Phoebe,,,0
+Lender_7,Harry,,,0
+Lender_8,Louis,,,0
+Lender_9,Liam,,,0
+Lender_10,Niall,,,0
